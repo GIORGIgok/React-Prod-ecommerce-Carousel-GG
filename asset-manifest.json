@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Prod-ecommerce-Carousel-GG/static/css/main.be6fcf52.css",
+    "main.js": "/React-Prod-ecommerce-Carousel-GG/static/js/main.8e2d3954.js",
+    "static/js/787.0f057ca9.chunk.js": "/React-Prod-ecommerce-Carousel-GG/static/js/787.0f057ca9.chunk.js",
+    "index.html": "/React-Prod-ecommerce-Carousel-GG/index.html",
+    "main.be6fcf52.css.map": "/React-Prod-ecommerce-Carousel-GG/static/css/main.be6fcf52.css.map",
+    "main.8e2d3954.js.map": "/React-Prod-ecommerce-Carousel-GG/static/js/main.8e2d3954.js.map",
+    "787.0f057ca9.chunk.js.map": "/React-Prod-ecommerce-Carousel-GG/static/js/787.0f057ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6fcf52.css",
+    "static/js/main.8e2d3954.js"
+  ]
+}

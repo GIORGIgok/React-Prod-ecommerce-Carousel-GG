@@ -1,0 +1,2 @@
+body{background-color:#343a44}.slider{display:flex;justify-content:center}.thumbnail-slider{display:flex;flex-direction:column;height:90vh;margin-left:5px;overflow-y:scroll}.thumbnail{border:3px solid #000;cursor:pointer}.thumbnail img{height:100px;width:120px}.thumbnail.active{border:3px solid #6200ff}.main-slider{align-items:center;display:flex;justify-content:center}.main-slider img{border-radius:8px;box-shadow:5px 5px 6px 0 #282c34;max-height:580px;max-width:580px}
+/*# sourceMappingURL=main.be6fcf52.css.map*/
